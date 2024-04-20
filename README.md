@@ -61,9 +61,9 @@ As a data engineer on the STEDI Step Trainer team, the goal is to extract data f
 
 **Glue Tables SQL DDL**:
 
- -   [customer_landing.sql](https://github.com/HiteshBhagwani/glue_project/blob/d4eee3c9d953a28a8151743e2f06291f04e7b3b4/scripts/customer_landing.sql)
- -   [accelerometer_landing.sql](https://github.com/HiteshBhagwani/glue_project/blob/d4eee3c9d953a28a8151743e2f06291f04e7b3b4/scripts/accelerometer_landing.sql)
- -  [step_trainer_landing.sql](https://github.com/HiteshBhagwani/glue_project/blob/d4eee3c9d953a28a8151743e2f06291f04e7b3b4/scripts/step_trainer_landing.sql)
+ -   [customer_landing.sql](https://github.com/HiteshBhagwani/glue_project/blob/62755171f1b3cf197d088642f0fa9203e74e86f2/scripts/customer_landing.sql)
+ -   [accelerometer_landing.sql](https://github.com/HiteshBhagwani/glue_project/blob/62755171f1b3cf197d088642f0fa9203e74e86f2/scripts/accelerometer_landing.sql)
+ -  [step_trainer_landing.sql](https://github.com/HiteshBhagwani/glue_project/blob/62755171f1b3cf197d088642f0fa9203e74e86f2/scripts/step_trainer_landing.sql)
 
 **Athena Landing Zone Data Query**
 
